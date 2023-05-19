@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jaadu Meetup</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Jaadu Meetup</h1>
+    </div>
+    <div class="container">
+        <img src="https://1.bp.blogspot.com/-uXgs7MaipCE/XpTZoiuyPTI/AAAAAAAAn2M/sdikj2izvz8mvu0PsRXWcgfylJMhtjMUQCLcBGAsYHQ/s1600/Jadu%2BPictures%252C%2BImages.JPG" alt="Jaadu Image" width="600" height="400">
+        <p>Join us for our upcoming Jaadu Meetup!</p>
+        <p>We're excited to announce that we'll be organizing a meetup on May 20th at Arya Group of Colleges. Jaadu will be joining us as a special guest!</p>
+        <div class="register">
+            <a href="registration.html" class="btn">Register Now for a chance to win a special gift from Jaadu!</a>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>For any inquiries or issues, please contact Harshranjan Chaturvedi at <a href="tel:+91959476389">959476389</a>.</p>
+    </div>
+</body>
+</html>
+
